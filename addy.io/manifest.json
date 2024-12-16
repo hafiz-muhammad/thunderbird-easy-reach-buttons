@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+    "name": "addy.io - Easy Reach",
+    "description": "An extension for Thunderbird that allows you to access addy.io.",
+    "author": "Abdul Hafiz Muhammad",
+    "homepage_url": "https://github.com/hafiz-muhammad/thunderbird-easy-reach-buttons",
+    "version": "1.0.0",
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "{f8ac1910-a081-4808-b6cf-5d4d7170bbc4}",
+            "strict_min_version": "102.0"
+        }
+    },
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    },
+    "icons": {
+        "32": "icons/addyio-icon-1024.svg"
+    }
+}

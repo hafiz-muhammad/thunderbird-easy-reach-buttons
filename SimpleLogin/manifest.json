@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+    "name": "SimpleLogin - Easy Reach",
+    "description": "An extension for Thunderbird that allows you to access SimpleLogin.",
+    "author": "Abdul Hafiz Muhammad",
+    "homepage_url": "https://github.com/hafiz-muhammad/thunderbird-easy-reach-buttons",
+    "version": "1.0.0",
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "{190196ac-c45b-4cfb-8d5a-2adc582abf98}",
+            "strict_min_version": "102.0"
+        }
+    },
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    },
+    "icons": {
+        "32": "icons/simplelogin-icon-1024.svg"
+    }
+}

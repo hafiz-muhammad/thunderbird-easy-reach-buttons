@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+    "name": "Have I Been Pwned? - Easy Reach",
+    "description": "An extension for Thunderbird that allows you to access Have I Been Pwned.",
+    "author": "Abdul Hafiz Muhammad",
+    "homepage_url": "https://github.com/hafiz-muhammad/thunderbird-easy-reach-buttons",
+    "version": "1.0.0",
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "{001f6fd1-1afd-4928-a95e-f92c70563643}",
+            "strict_min_version": "102.0"
+        }
+    },
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    },
+    "icons": {
+        "32": "icons/haveibeenpwned-icon-1024.svg"
+    }
+}
