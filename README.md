@@ -1,3 +1,3 @@
-The extensions give you access to different online services that are not natively supported within Thunderbird.
+These extensions provide access to various online services from within Thunderbird.
 
-**I am not affiliated with any of these services.**
+***Disclaimer***: This is an unofficial, independent project and is not affiliated with or endorsed by the referenced services. All product names, logos, and trademarks are the property of their respective owners and are used here for identification purposes only.
